@@ -72,7 +72,7 @@
             </ul>
           </div>
           <div class="featured__item__text">
-            <h6><a href="#">Crab Pool Security</a></h6>
+            <h6><a href="#">Quần Jeans nam Aristino AJRR04</a></h6>
             <h5>$30.00</h5>
           </div>
         </div>
@@ -87,7 +87,7 @@
             </ul>
           </div>
           <div class="featured__item__text">
-            <h6><a href="#">Crab Pool Security</a></h6>
+            <h6><a href="#">Quần âu nam Aristino ATRR03</a></h6>
             <h5>$30.00</h5>
           </div>
         </div>
@@ -102,7 +102,7 @@
             </ul>
           </div>
           <div class="featured__item__text">
-            <h6><a href="#">Crab Pool Security</a></h6>
+            <h6><a href="#">Quần âu nam Aristino ATR0432</a></h6>
             <h5>$30.00</h5>
           </div>
         </div>
@@ -117,7 +117,7 @@
             </ul>
           </div>
           <div class="featured__item__text">
-            <h6><a href="#">Crab Pool Security</a></h6>
+            <h6><a href="#">Quần âu nam Aristino ATRR1612</a></h6>
             <h5>$30.00</h5>
           </div>
         </div>
@@ -132,7 +132,7 @@
             </ul>
           </div>
           <div class="featured__item__text">
-            <h6><a href="#">Crab Pool Security</a></h6>
+            <h6><a href="#">Quần âu nam Aristino ATR04202</a></h6>
             <h5>$30.00</h5>
           </div>
         </div>
@@ -147,7 +147,7 @@
             </ul>
           </div>
           <div class="featured__item__text">
-            <h6><a href="#">Crab Pool Security</a></h6>
+            <h6><a href="#">Quần âu nam Aristino ATRG1442</a></h6>
             <h5>$30.00</h5>
           </div>
         </div>
@@ -162,7 +162,7 @@
             </ul>
           </div>
           <div class="featured__item__text">
-            <h6><a href="#">Crab Pool Security</a></h6>
+            <h6><a href="#">Áo polo nam Aristino APS15S2</a></h6>
             <h5>$30.00</h5>
           </div>
         </div>
@@ -177,7 +177,7 @@
             </ul>
           </div>
           <div class="featured__item__text">
-            <h6><a href="#">Crab Pool Security</a></h6>
+            <h6><a href="#">Áo polo nam Aristino APS1221</a></h6>
             <h5>$30.00</h5>
           </div>
         </div>
@@ -220,7 +220,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-1.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo polo nam Aristino APS1245</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -229,7 +229,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-2.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi dài tay Aristino ASL1412 màu xanh tím than kẻ đỏ</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -238,7 +238,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-3.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi nam ngắn tay Aristino ASS13582</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -249,7 +249,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-1.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo polo nam Aristino APS1245</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -258,7 +258,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-2.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi dài tay Aristino ASL1412 màu xanh tím than kẻ đỏ</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -267,7 +267,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-3.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi nam ngắn tay Aristino ASS13582</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -285,7 +285,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-1.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo polo nam Aristino APS1245</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -294,7 +294,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-2.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi dài tay Aristino ASL1412 màu xanh tím than kẻ đỏ</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -303,7 +303,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-3.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi nam ngắn tay Aristino ASS13582</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -314,7 +314,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-1.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo polo nam Aristino APS1245</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -323,7 +323,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-2.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi dài tay Aristino ASL1412 màu xanh tím than kẻ đỏ</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -332,7 +332,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-3.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi nam ngắn tay Aristino ASS13582</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -350,7 +350,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-1.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo polo nam Aristino APS1245</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -359,7 +359,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-2.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi dài tay Aristino ASL1412 màu xanh tím than kẻ đỏ</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -368,7 +368,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-3.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi nam ngắn tay Aristino ASS13582</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -379,7 +379,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-1.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo polo nam Aristino APS1245</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -388,7 +388,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-2.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi dài tay Aristino ASL1412 màu xanh tím than kẻ đỏ</h6>
                   <span>$30.00</span>
                 </div>
               </a>
@@ -397,7 +397,7 @@
                   <img src="{{url('site')}}/img/latest-product/lp-3.jpg" alt="">
                 </div>
                 <div class="latest-product__item__text">
-                  <h6>Crab Pool Security</h6>
+                  <h6>Áo sơ mi nam ngắn tay Aristino ASS13582</h6>
                   <span>$30.00</span>
                 </div>
               </a>
